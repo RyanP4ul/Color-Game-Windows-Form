@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BetHistoryListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ColorUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControls\VerticalProgressBar .cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\BetHistoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ColorModeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\DialogBetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\HelpForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TransactionResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WalletForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WithdrawAndDepositForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MsgUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestGameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TransactionUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

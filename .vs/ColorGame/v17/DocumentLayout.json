@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\withdrawanddepositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\withdrawanddepositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\withdrawanddepositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\withdrawanddepositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\transactionresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\transactionresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\walletform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\walletform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\walletform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\walletform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\transactionresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\transactionresultform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|c:\\users\\ryanpaul\\source\\repos\\colorgame\\colorgame\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056737B4-FB0E-489E-B1AB-03EFFA62CA32}|ColorGame\\ColorGame.csproj|solutionrelative:colorgame\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionForm.cs [Design]",
+              "RelativeToolTip": "ColorGame\\Forms\\TransactionForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:01:01.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionResultForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionResultForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\TransactionResultForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionResultForm.cs [Design]",
+              "RelativeToolTip": "ColorGame\\Forms\\TransactionResultForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:46:44.703Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WalletForm.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WalletForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\WalletForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WalletForm.cs",
+              "RelativeToolTip": "ColorGame\\Forms\\WalletForm.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:15:39.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WalletForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WalletForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\WalletForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WalletForm.cs [Design]",
+              "RelativeToolTip": "ColorGame\\Forms\\WalletForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:15:18.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WithdrawAndDepositForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WithdrawAndDepositForm.cs [Design]",
+              "RelativeToolTip": "ColorGame\\Forms\\WithdrawAndDepositForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:05:21.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionResultForm.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionResultForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\TransactionResultForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionResultForm.cs",
+              "RelativeToolTip": "ColorGame\\Forms\\TransactionResultForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:54:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WithdrawAndDepositForm.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "RelativeToolTip": "ColorGame\\Forms\\WithdrawAndDepositForm.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAwGEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:06:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Models\\User.cs",
+              "RelativeToolTip": "ColorGame\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:16:44.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionForm.cs",
+              "DocumentMoniker": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "ColorGame\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\ryanpaul\\source\\repos\\ColorGame\\ColorGame\\Forms\\TransactionForm.cs",
+              "RelativeToolTip": "ColorGame\\Forms\\TransactionForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T15:12:47.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
